@@ -139,10 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CPP_Test.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Vector3D.h" />
+    <ClCompile Include="Observer_Pattern.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
